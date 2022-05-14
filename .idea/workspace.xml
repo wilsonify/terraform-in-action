@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cf5f7b3-5d7a-40d1-83be-fb080de86c5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chapter1/listing1.1/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C01-intro/listing1.1/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/listing1.2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C01-intro/listing1.2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/listing1.3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C01-intro/listing1.3/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/snippet1.1/cf.json" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C01-intro/snippet1.1/cf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part1/app1.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part1/app1.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part1/app2.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part1/app2.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part1/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part1/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part2/modules/iam/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part2/modules/iam/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part2/policies/app1.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part2/policies/app1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part2/policies/app2.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part2/policies/app2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part3/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part3/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part3/testfixtures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part3/testfixtures/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/complete-part3/testfixtures/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/complete-part3/testfixtures/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.1/app1.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.1/app1.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.10/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.10/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.11/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.11/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.2/app2.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.2/app2.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.3/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.5/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.5/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.6/app1.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.6/app1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.7/app2.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.7/app2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.8/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.8/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/listing10.9/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/listing10.9/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.1/app1.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.1/app1.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.2/app2.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.2/app2.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.3/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.5/local.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.5/local.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.6/credentials" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.6/credentials" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10/snippet10.7/join.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter10/snippet10.7/join.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/example/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/example/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/petstore/provider.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/petstore/provider.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/petstore/provider_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/petstore/provider_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/petstore/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/petstore/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/complete/terraform-provider-petstore/petstore/resource_ps_pet_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/complete/terraform-provider-petstore/petstore/resource_ps_pet_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.10/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.10/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.11/provider_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.11/provider_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.12/resource_ps_pet_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.12/resource_ps_pet_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.13/petstore.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.13/petstore.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.14/.terraformrc" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.14/.terraformrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.15/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.15/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.2/provider.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.2/provider.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.3/provider.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.3/provider.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.4/provider.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.4/provider.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.5/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.5/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.6/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.6/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.7/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.7/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.8/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.8/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/listing11.9/resource_ps_pet.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/listing11.9/resource_ps_pet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/snippet11.1/provider.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/snippet11.1/provider.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/snippet11.2/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter11/snippet11.2/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/iam.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/iam.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/templates/backend.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/templates/backend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/templates/buildspec_apply.yml" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/templates/buildspec_apply.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/templates/buildspec_plan.yml" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/templates/buildspec_plan.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/modules/codepipeline/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/modules/codepipeline/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/policies/helloworld.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/policies/helloworld.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/complete/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/complete/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.1/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.1/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.10/backend.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.10/backend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.11/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.11/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.12/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.12/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.13/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.13/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.14/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.14/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.15/helloworld.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.15/helloworld.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.16/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.16/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.17/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.17/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.2/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.2/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.3/iam.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.3/iam.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.4/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.4/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.5/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.5/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.6/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.6/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.7/buildspec_plan.yml" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.7/buildspec_plan.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.8/buildspec_apply.yml" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.8/buildspec_apply.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/listing12.9/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter12/listing12.9/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.1/state.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.1/state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.10/block.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.10/block.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.3/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.4/lambda.go" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.4/lambda.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.5/policy.json" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.5/policy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.6/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.6/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.7/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.7/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.8/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.8/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/listing13.9/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/listing13.9/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.1/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.1/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.10/out.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.10/out.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.11/localfile.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.11/localfile.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.12/s3.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.12/s3.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.13/aws.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.13/aws.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.14/localfiledata.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.14/localfiledata.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.15/rds.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.15/rds.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.16/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.16/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.17/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.17/vars.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.18/null.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.18/null.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.19/redirect.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.19/redirect.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.20/trivial.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.20/trivial.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.21/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.21/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.3/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.3/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.5/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.5/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.6/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.6/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.7/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.7/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.8/http.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.8/http.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/snippet13.9/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter13/snippet13.9/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/listing2.1/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/listing2.1/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/listing2.2/create.go" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/listing2.2/create.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/listing2.3/read.go" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/listing2.3/read.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/listing2.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/listing2.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/listing2.5/delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/listing2.5/delete.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/snippet2.1/state.json" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/snippet2.1/state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/snippet2.2/state.json" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C02-mental-model/snippet2.2/state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/complete/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/complete/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/complete/templates/alice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/complete/templates/alice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/complete/templates/observatory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/complete/templates/observatory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/complete/templates/photographer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/complete/templates/photographer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/complete/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/complete/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.1/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.1/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.10/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.10/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.2/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.2/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.3/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.3/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.4/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.4/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.5/alice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.5/alice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.6/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.6/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.7/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.7/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.8/observatory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.8/observatory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/listing3.9/photographer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/listing3.9/photographer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.1/madlibs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.1/madlibs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.2/validation.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.2/validation.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.3/error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.3/error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.4/templatefile.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.4/templatefile.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.5/locals.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.5/locals.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.6/local.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.6/local.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/snippet3.7/archive_file.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C03-fundamentals/snippet3.7/archive_file.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/autoscaling/cloud_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/autoscaling/cloud_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/autoscaling/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/autoscaling/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/autoscaling/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/autoscaling/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/autoscaling/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/autoscaling/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/database/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/database/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/database/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/database/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/database/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/database/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/networking/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/networking/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/networking/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/networking/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/modules/networking/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/modules/networking/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/complete/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/complete/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.1/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.1/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.10/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.10/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.11/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.11/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.12/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.12/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.13/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.13/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.14/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.14/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.15/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.15/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.16/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.16/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.17/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.17/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.18/cloud_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.18/cloud_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.19/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.19/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.2/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.2/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.20/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.20/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.3/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.3/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.5/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.5/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.6/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.6/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.7/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.7/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.8/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.8/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/listing4.9/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P01-bootcamp /C04-structure/listing4.9/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/complete/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/complete/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/complete/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/complete/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/complete/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/complete/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/complete/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/complete/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/complete/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/complete/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/complete/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/complete/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.1/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.1/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.10/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.10/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.11/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.11/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.12/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.12/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.13/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.13/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.2/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.2/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.3/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.3/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.5/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.5/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.6/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.6/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.7/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.7/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.8/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.8/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/listing5.9/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/listing5.9/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/snippet5.1/example/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/snippet5.1/example/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/snippet5.1/example/templates/iot.json" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/snippet5.1/example/templates/iot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/snippet5.1/snippet.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C05-alternative-structure/snippet5.1/snippet.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/iam.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/iam.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part1_s3backend/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part1_s3backend/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part2_s3backend_deploy/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part2_s3backend_deploy/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part3_remoteexample/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part3_remoteexample/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part4_workspaces/environments/dev.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part4_workspaces/environments/dev.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part4_workspaces/environments/prod.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part4_workspaces/environments/prod.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/part4_workspaces/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C06-reuse/part4_workspaces/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/application/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/application/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/application/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/application/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/application/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/application/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/application/push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/application/push.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/bootstrap.sh" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/bootstrap.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/infrastructure/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/infrastructure/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/infrastructure/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/infrastructure/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/infrastructure/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/infrastructure/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/infrastructure/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/infrastructure/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/infrastructure/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/infrastructure/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/complete/infrastructure/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/complete/infrastructure/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.1/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.1/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.10/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.10/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.11/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.11/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.12/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.12/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.13/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.14/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.14/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.15/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.15/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.16/push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.16/push.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.2/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.2/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.3/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.3/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.5/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.5/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.6/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.6/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.7/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.7/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.8/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.8/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/listing7.9/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/listing7.9/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/snippet7.1/snippet.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/snippet7.1/snippet.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/snippet7.2/snippet.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/snippet7.2/snippet.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/snippet7.3/snippet.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/snippet7.3/snippet.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/snippet7.4/snippet.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C07-integration/snippet7.4/snippet.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part1_hybridcloud-lb/bootstrap.sh" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part1_hybridcloud-lb/bootstrap.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part1_hybridcloud-lb/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part1_hybridcloud-lb/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part1_hybridcloud-lb/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part1_hybridcloud-lb/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part1_hybridcloud-lb/providers.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part1_hybridcloud-lb/providers.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part1_hybridcloud-lb/versions.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part1_hybridcloud-lb/versions.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part2a_multicloud-mmorpg/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part2a_multicloud-mmorpg/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part2b_multicloud-mmorpg-nomad/nomad.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part2b_multicloud-mmorpg-nomad/nomad.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/part3multicloud-mmorpg-ms/player2.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P02-scenarios/C08-multi-cloud/part3multicloud-mmorpg-ms/player2.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.1/blue_green.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.1/blue_green.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.11/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.11/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.2/blue_green.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.2/blue_green.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.3/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.4/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.4/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.5/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.5/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.6/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.6/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.7/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.7/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.8/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.8/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/listing9.9/app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/listing9.9/app.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/snippet9.1/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/snippet9.1/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/snippet9.2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/snippet9.2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9/snippet9.3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/P03-automation/chapter9/snippet9.3/main.tf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="299we4qus2NsziokZWekgztURuH" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/P03-automation" />
+      <recent name="$PROJECT_DIR$/P02-scenarios" />
+      <recent name="$PROJECT_DIR$/P01-bootcamp " />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cf5f7b3-5d7a-40d1-83be-fb080de86c5b" name="Changes" comment="" />
+      <created>1652538700778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652538700778</updated>
+    </task>
+    <servers />
+  </component>
+</project>
